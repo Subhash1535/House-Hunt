@@ -41,7 +41,7 @@
 
 📄 Project Documentation:
 
-👉(https://github.com/Subhash1535/House-Hunt/tree/master/House%20Hunt)
+👉(https://github.com/Subhash1535/House-Hunt/tree/master/House%20Hunt/Documents)
 
 ---
 ## 📦 Installation Guide
