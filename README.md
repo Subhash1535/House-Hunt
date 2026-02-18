@@ -48,7 +48,7 @@
 
 ```bash
 # 🔁 Step 1: Clone the Repository
- git clone https://github.com/Madhumitha0027/HouseHunt-mern
+ https://github.com/Subhash1535/House-Hunt.git
  cd househunt
 
 # 🖥️ Step 2: Backend Setup
