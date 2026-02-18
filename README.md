@@ -41,7 +41,7 @@
 
 📄 Project Documentation:
 
-👉(https://github.com/Madhumitha0027/HouseHunt-mern/tree/master/Documents)
+👉(https://github.com/Subhash1535/House-Hunt/tree/master/House%20Hunt)
 
 ---
 ## 📦 Installation Guide
